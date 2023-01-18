@@ -38,6 +38,14 @@ void setBrand(String newBrand){
     return name;
     }
 
+    void setDisplay(String display){
+    this.display=display;
+    }
+
+    String getDisplay(){
+    return display;
+    }
+
 }
 
 
